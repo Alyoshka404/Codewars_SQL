@@ -174,6 +174,8 @@ You should return all people fields as well as the sale count as "sale_count" an
 >```
 </details>
 
+<img align="right" src="https://media.tenor.com/lNFv9X-PgR0AAAAi/capoo-bugcat.gif" height="100"/>  
+  
 ---
 <br>
   
@@ -391,6 +393,9 @@ The query must rank each clan by their total_points, you must return each unqiue
 >```
 </details>
 
+  
+<img align="right" src="https://media.tenor.com/F7YIQb521dgAAAAi/tkthao219-capoo.gif" height="100"/>  
+  
 ---
 <br>
   
@@ -603,6 +608,9 @@ Timmy works for a statistical analysis company and has been given a task of calc
 >```
 </details>
 
+  
+<img align="right" src="https://media.tenor.com/o4CBDPGRXNEAAAAi/capoo-blue-cat.gif" height="100"/>  
+  
 ---
 <br>
   
@@ -848,6 +856,9 @@ Compare your table to the expected table to view the expected results.
 >ORDER by name
 >```
 </details>
+
+  
+<img align="right" src="https://media.tenor.com/DdnFqjAGkxAAAAAi/bugcat-capoo.gif" height="100"/>  
   
 ---
 <br>
@@ -1103,6 +1114,9 @@ Given the information about sales in a store, calculate the total revenue for ea
 
 ></details>
 
+  
+ <img align="right" src="https://media.tenor.com/8oRk0EBWv1AAAAAi/bugcat-capoo.gif" height="100"/> 
+  
 ---
 <br>
   
@@ -1337,6 +1351,9 @@ Given the database where all the users' data is stored in one huge XML string, f
 
 ></details>
 
+  
+  <img align="right" src="https://media.tenor.com/Z-4mle3_GgwAAAAi/bugcat-capoo.gif" height="100"/>
+  
 ---
 <br>
 
