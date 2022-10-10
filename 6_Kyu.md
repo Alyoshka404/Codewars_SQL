@@ -1,4 +1,4 @@
-# Python Coding Challenges (5 Kyu) <img align="right" src="https://media.tenor.com/4_5IAe-TSAQAAAAi/capoo-bugcat.gif" height="100"/>
+# SQL Coding Challenges (6 Kyu) <img align="right" src="https://media.tenor.com/t5INDy2mrzMAAAAi/capoo-bugcat.gif" height="100"/>
 <br>
 
 ## Find the unique string
